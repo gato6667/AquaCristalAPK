@@ -25,6 +25,7 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "newArchEnabled": true // Habilita la nueva arquitectura de React Native
   }
 }
